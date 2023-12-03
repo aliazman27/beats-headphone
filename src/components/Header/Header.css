@@ -1,0 +1,22 @@
+.header {
+  background-color: rgb(253, 45, 87);
+  height: 70px;
+
+ 
+}
+.header-text {
+  color: azure;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.header-text:hover {
+  background-color: aliceblue;
+  color: black;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 10%;
+}
+.header-position{
+    padding-top: 20px;
+}

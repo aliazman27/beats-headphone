@@ -1,0 +1,8 @@
+.customer-container{
+    border: 4px solid cornflowerblue;
+    margin: 5px 10px;
+}
+.customer-container:hover{
+    color: azure;
+    background-color: black;
+}

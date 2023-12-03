@@ -1,0 +1,41 @@
+#headline-1{
+    color: rgb(27, 146, 150);
+}
+#headline-1:hover{
+    color: crimson;
+}
+#headline-2{
+    color: rgb(84, 27, 150);
+}
+#headline-2:hover{
+    transform: scale(1.2);
+    color: cornflowerblue;
+}
+.headline-design{
+    display: flex;
+    margin: 20px;
+    margin-bottom: 70px;
+}
+#image{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+#image:hover{
+    transform: scale(1.4);
+}
+.review-button{
+    border: none;
+    padding: 6px 10px;
+    background-color: rgb(220, 61, 61);
+    color: azure;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-bottom: 50px;
+}
+.review-button:hover{
+    background-color: cornflowerblue;
+}
+.customer-style{
+    margin-bottom: 20px;
+
+}
